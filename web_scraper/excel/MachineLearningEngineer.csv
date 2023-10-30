@@ -1,0 +1,521 @@
+Job Title,Job Link,Job ID,Company Name,Location,Job Posting,Salary,Job Description
+AI/ML Engineer,https://malaysia.indeed.com/company/Big-Corridor-Sdn-Bhd/jobs/Engineer-54d52bc01957af57?fccid=ab304ba2539eacc3&vjs=3,job_54d52bc01957af57,Big Corridor Sdn Bhd,Kuala Lumpur,"Posted
+Just posted","RM 4,000 - RM 8,000 a month","Company Overview:
+Join us as an AI/MS Engineer, where we're pioneering innovative solutions to maximize space utilization. Our mission is to empower real estate owners with cutting-edge technology, transforming traditional building infrastructure into responsive, data-driven environments. We create digital twins of spaces, providing facility managers with user-friendly automation and operational efficiency. Be part of a team shaping the future of space optimization through AI and Machine Learning.
+Job Responsibilities:
+- Data Preprocessing: Collect, clean, and preprocess large datasets for training and evaluation of machine learning models.
+- Model Development: Design and develop machine learning algorithms and models that are scalable, efficient, and accurate.
+- Feature Engineering: Identify and engineer relevant features from raw data to enhance model performance.
+- Model Training: Train and fine-tune machine learning models using appropriate techniques, frameworks, and libraries.
+- Evaluation: Evaluate the performance of models using relevant metrics and implement improvements as needed.
+- Deployment: Deploy machine learning models into production environments and maintain them to ensure high availability and reliability.
+- Collaboration: Collaborate with data scientists and software engineers to integrate AI/ML components into our products and services.
+- Research: Stay up-to-date with the latest advancements in AI/ML and contribute to research efforts to enhance our solutions.
+- Documentation: Create comprehensive documentation for models, algorithms, and processes to ensure knowledge sharing and reproducibility.
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Science, or a related field.
+- Proven experience in developing and deploying machine learning models in real-world applications.
+- Proficiency in programming languages such as Python, Javascript.
+- Strong knowledge of machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+- Solid understanding of data structures, algorithms, and statistical concepts.
+- Experience with data preprocessing, feature engineering, and model evaluation.
+- Experience with working on large language models (LLMs) and Generative AI models is a plus.
+- Experience with working on cloud tools such as AWS SageMaker is a plus.
+- Excellent problem-solving skills and the ability to work in a collaborative team environment.
+- Strong communication skills to convey complex technical concepts to non-technical stakeholders.
+Job Type: Full-time
+Salary: RM4,000.00 - RM8,000.00 per month
+Experience:
+AI/ML: 1 year (Preferred)
+Language:
+English (Preferred)"
+Senior Machine Learning Engineer,https://malaysia.indeed.com/company/FINEXUS-GROUP/jobs/Machine-Learning-Engineer-1d643036f25ed8c4?fccid=5bd5e37d2ce829a1&vjs=3,job_1d643036f25ed8c4,FINEXUS GROUP,Kuala Lumpur,"Posted
+Today","RM 4,500 - RM 10,000 a month","As a Senior Machine Learning Engineer at Finexus Sdn Bhd, you will be responsible for leading and contributing to the development of advanced machine learning models and algorithms to solve complex problems and drive innovation in our field. You will collaborate with cross-functional teams and play a critical role in designing, developing, and implementing machine learning solutions to support our company's objectives. This is an opportunity to make a significant impact and shape the future of the company’s AI-driven products and services.
+You will report directly to the Technology Director, and will have an impact on projects such as:
+● Applicants Identification and Verification & eKYC:
+○ Implement automated solutions for customer identity verification, anti-money laundering (AML) checks, and know-your-customer (KYC) compliance.
+○ Collaborate with regulatory and compliance teams to ensure that machine learning models meet industry standards and guidelines.
+○ Ensure timely and accurate due diligence processes without compromising user experience.
+● Document Text Extraction and Understanding:
+○ Implement image processing and OCR solutions to extract text data from user submitted documents.
+○ Implement natural language processing solutions to understand extracted text data.
+● Fraud Detection:
+○ Develop and improve ML models to detect and prevent fraudulent activities across Finexus’ fintech platform.
+○ Analyze large datasets to identify patterns and anomalies indicative of fraudulent behavior.
+○ Automate repetitive fraud detection activities conducted by the operations team
+Key responsibilities include:
+● Contribute to the design, development, and deployment of AI-driven products and solutions.
+● Collaborate with cross-functional teams to identify business opportunities and translate them into AI projects.
+● Research, evaluate, and adopt state-of-the-art AI technologies to improve existing processes and develop new capabilities. This includes the full ML development technical stack, from Data Science to MLOps.
+● Provide technical leadership and mentorship to junior team members, fostering a culture of continuous learning and growth.
+● Architect scalable and robust AI systems, ensuring performance, reliability, and security.
+● Ensure effective communication of technical concepts and project updates to both technical and non-technical stakeholders.
+● Contribute to the data security infrastructure that keeps AI development safe, compliant and respecting data privacy laws.
+Minimum Qualifications:
+● Bachelor's degree in Computer Science, preferably with a focus on Machine Learning.
+● Proven experience (> 3 years) in AI, machine learning, or related technical roles.
+● Strong programming skills in Python and Java
+● In-depth understanding of AI algorithms, neural networks, and deep learning techniques.
+● Hands-on experience with designing and implementing AI models and applications.
+● Familiar with AI libraries such as Tensorflow, PyTorch, OpenCV, kornia, scikit-learn, ONNX etc.
+● Familiar with relational DBs e.g PostgreSQL database.
+● Familiar with version control systems such as Git and SVN.
+● Familiar with Python frameworks such as FastAPI.
+● Familiar with Linux operating systems
+Preferred Qualifications:
+These are a plus
+● Master's in Computer Science.
+● Knowledge of computer vision and natural language processing (NLP).
+● Familiarity with Docker containerization.
+● Familiarity with Apache Airflow and mlflow.
+Join us at Finexus Sdn Bhd and be at the forefront of shaping the future of Fintech AI technology. As a Senior Machine Learning Engineer, you will have the opportunity to drive innovation and create impactful AI solutions that transform industries. Apply your expertise and passion to contribute to a new era of AI-driven excellence.
+Job Type: Full-time
+Salary: RM4,500.00 - RM10,000.00 per month
+Benefits:
+Health insurance
+Parental leave
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Yearly bonus
+Education:
+Bachelor's (Preferred)
+Experience:
+machine learning models: 3 years (Preferred)
+Language:
+English (Preferred)"
+"Database Engineer (PostgreSQL, MySQL, MSSQL)",https://malaysia.indeed.com/rc/clk?jk=31f3dd53b165bf92&fccid=f01c2f55ec3054bf&vjs=3,job_31f3dd53b165bf92,Robert Walters,Kuala Lumpur,"Posted
+Posted 5 days ago",,"An exciting Database Engineer (PostgreSQL, MySQL, MSSQL) job has just become available at a manufacturing company based in Kuala Lumpur.
+About the Database Engineer (PostgreSQL, MySQL, MSSQL) Role:
+In this senior role you are responsible for designing new database architecture and solutions for developmental projects. You will also be supporting PostgreSQL database design, maintenance, and troubleshooting.
+Key Responsibilities:
+Design new database architecture and solutions for operational products during new product development projects. Offer recommendations for enhancing both new and existing database systems
+Set up and modify databases to meet various operational needs. Gather requirements by engaging with subject matter experts and stakeholders
+Collaborate with internal and external team members, including system architects and software developers, to define project requirements, capabilities, and development timelines
+Provide support and training to fellow team members, especially software developers, in working with databases, including query preparation and schema understanding
+Enhance system performance by conducting tests, troubleshooting issues, and integrating new components. Resolve issues that impact the ongoing use of the solution portfolio, including Power BI dashboards connected to various source systems
+Support the implementation and ongoing maintenance of cloud-based databases for internally developed platforms. Contribute to the setup of a data lake layer
+To succeed in this PostgreSQL Database Engineer role, you must have a minimum of five years’ experience in database architecture and design for large-scale projects and products and a minimum of three years of expertise in PostgreSQL database design, maintenance, and troubleshooting.
+Key Requirements:
+A minimum of five years’ experience in database architecture and design for large-scale projects and products
+Minimum of three years of expertise in PostgreSQL database design, maintenance, and troubleshooting
+Proficiency in Databricks, Agile methodologies or agile implementation approaches, and Power BI
+Competence in working with cloud databases, especially Azure (or AWS and other cloud platforms)
+Experience in data warehousing, data mining, data visualisation, and data migration
+Knowledgeable in RPA/automation, Power Platform, machine learning, artificial intelligence, etc.
+The scope of the offer, the size of the business, the freedom and autonomy to drive your career forward all add up to a great place to work.
+If you have a successful track record in PostgreSQL database, you can take your career forward with this exciting Database Engineer (PostgreSQL, MySQL, MSSQL) job.
+Apply today or e-mail me at Sarah.Nunis@robertwalters.com.my to discuss this new opportunity.
+Do note that we will only be in touch if your application is shortlisted.
+Agensi Pekerjaan Robert Walters Sdn Bhd
+Business Registration Number : 729828-T
+Licence Number : JTKSM 423C
+
+An exciting Database Engineer (PostgreSQL, MySQL, MSSQL) job has just become available at a manufacturing company based in Kuala Lumpur."
+DevSecOps Engineer,https://malaysia.indeed.com/company/Arvato-Systems/jobs/Engineer-e3c221362168f811?fccid=8c96734f1d4f7582&vjs=3,job_e3c221362168f811,Arvato Systems Malaysia,Kuala Lumpur,"Employer
+Active 6 days ago",,"Job Highlights:
+Sponsored meals if you work at the office!
+We championed hybrid work arrangement.
+Responsibilities:
+To provide solutions / consulting in governance & adhering to compliance of software tools
+To execute operational activities such as setup, deployment new/expansion, migrations monitoring, configuration, and incident management.
+To create, implement, maintain, and optimize CI/CD (continuous integration and continuous delivery) pipeline based on complex software/application versioning.
+To support user management in Enterprise repository.
+To structure & re-structure repositories.
+To migrate repositories and user groups across enterprise tools.
+To customize GitHub-hosted runners.
+To develop scripts / applications for pipeline.
+To manage the product lifecycle.
+To manage billing for customer’s usage.
+To develop and execute project plans.
+Applying best practices and standard operating procedures in managing the enterprise tools.
+Research and evaluation of alternative solutions and recommend implementations.
+Work with team members to estimate timelines, define project plans, and delegate tasks.
+Ensure that expected application performance levels are achieved.
+Requirements:
+Bachelor or Master Degree in Information Systems, Computer Science, Computer Engineering, Software Engineering, or equivalent.
+Proven work experience as a Software Engineer or Software Developer
+Ability to administer GitHub, AzureDevOps, Sonarqube, Docker, Miro, NuGet (Mining), WhiteSource.
+Scripting knowledge such as bash, python and PowerShell.
+Solid analytical, interpersonal and communication (verbal and written in English) skills.
+Oral and written communication skills are key, especially when dealing with our customers and project team members remotely.
+Personal Characteristics
+Willingness to learn and under minimum supervision, a can-do attitude, and motivation to succeed and grow.
+A flexible and high resilience team player, willingness to work in dynamic environment with customer driven projects.
+Ability to work under tight deadlines. Independent, self-discipline, self-organize.
+Positive working attitude and able to work independently in a team environment.
+Confident and professional with the ability to demonstrate high levels of customer service.
+Life at Arvato Systems Malaysia:
+If you're looking to be creative and at the same time putting on the entrepreneurship hat while working on Technology related work, then you fit right into our culture.
+Top 10 Perks & Benefits on Why You Should Join Us:
+Yearly Company Trip.
+We promote flexi work arrangements having flexi benefits where employees could enjoy what they see fit.
+Besides Annual Leaves & Sick Leaves, we have other unique paid time-offs such as Birthday Leave & Child Care/Parental Leave.
+We got you covered in terms of insurance alongside with your immediate family members (Spouse & Children only).
+Attractive Employee Referral Program.
+Sponsored meals if you work at the office!
+Unlimited coffee refills with state-of-the-art barista coffee machine where you can practice on your preferred choice of latte art.
+Believes in learning and people development with plenty of trainings to upskill your personal growth.
+Plenty of initiatives and interest groups to ensure that not only everyone in the team gels and bond closer together, we put an emphasis on CSR work as well.
+Work is important, but your mental health should always take priority. At Arvato Systems Malaysia, we do everything we can to make sure you lead a healthy and happy life by walking the talk on work-life balance.
+Diversity & Inclusion:
+Arvato Systems Malaysia stands for Equal Employment Opportunity (EEO). We do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.
+Job Type: Full-time
+Schedule:
+Monday to Friday"
+SENIOR TEAM MANAGER,https://malaysia.indeed.com/rc/clk?jk=0a4614a703e03e35&fccid=e75a28e9e33fbdeb&vjs=3,job_0a4614a703e03e35,F-secure,Kuala Lumpur,"Posted
+Posted 6 days ago",,"WithSecure™ protects businesses all over the world from modern threats. We do this through a Co-security approach born from first-hand knowledge that no one can solve every cyber security problem alone. Every single day, our diverse, growing team fights against online extortion, threats to national infrastructure, the unlawful spread of sensitive information, and everything in-between. The best part about working for WithSecure is our people! We are a community of dedicated and passionate professionals that take workplace happiness seriously. If you’re looking for something that’s more than just a job – we’d love to hear from you.
+
+WithSecure Intelligence is our unit dedicated to researching endpoint threat detection, cloud and web security, detection and response methodologies, data-driven threat insights, and tracking and deciphering advanced persistent threats. Our team includes machine learning experts, malware analysts, reverse engineers, threat intelligence specialists, detection engineers, and data analysts. We closely collaborate with partners, industry counterparts, academic institutions, investigative journalists, and local CERTS, to ensure the unit learns from and contributes to global cyber security efforts.
+
+If you’re interested in working with endpoint protection and cloud platform protection products, designing machine learning mechanisms to improve the usability of our products, research and implement systems and processes to make sure our products detect malicious behavior efficiently with minimal false positives, look no further than this job.
+
+Key Responsibilities
+
+As a Senior Team Manager in WithSecure Intelligence, you will serve as the primary liaison between the Malaysian team and the HR department, while reporting directly to the Vice President of WithSecure Intelligence. Your primary responsibilities include fostering a positive work environment and proactively addressing employee needs. You will manage workforce planning, encompassing hiring, training, and performance evaluations, to ensure the unit is consistently staffed to achieve its immediate needs and long-term goals. You'll also navigate local regulations and governmental requirements, offering advice to team members and ensuring company compliance. Additionally, you will represent the company in local contexts like work fairs and university events to enhance the company's reputation as an attractive employer. Optionally, depending on your qualifications, you may also lead complex software projects in the domain of cybersecurity, coordinating with multiple stakeholders and managing high technical complexity.
+
+What are we looking for?
+
+Ideal candidates for this position will be able to fulfill some or all of the following requirements:
+
+Experience in people management and proven track record in hiring and performance management
+Strong communication skills, verbal and written. The ideal candidate is proficient with Malaysian and English
+Bachelor’s degree. Master’s degree is a plus
+Problem-Solving skills and the ability to navigate complex challenges and make decisions that align with the company's objectives and values
+Strong organizational and coordination skills and a strong desire to contribute and improve our ways of working
+Software engineering experience is a plus
+Familiarity with Cybersecurity concepts is a plus
+
+What will you get from us
+
+As a member of the WithSecure Intelligence, you’ll enjoy a diverse, flexible, and friendly workplace, get to learn from world-class cyber security experts, contribute to and influence the capabilities of WithSecure’s cyber security products and services, and make the digital world a better and safer place for everyone.
+
+WithSecure™ employees are a community of dedicated and passionate professionals who are committed to building expertise, sharing knowledge, and fostering workplace fellowship, diversity, and happiness. If you’re looking for something that’s more than just a job, we’d love to hear from you. And if you’re interested in applying, send us a cover letter and your CV.
+
+A security background check will be conducted for the selected candidate.
+
+Over 1,200 amazing colleagues in 18 offices
+
+Possibility to protect the world
+
+Work with best of class experts who care
+
+Relaxed, open and fun working environment
+
+70+ nationalities
+
+Global with the spirit of a small company
+
+Purpose – Why we exist
+We are here to build and sustain trust in a digital society
+We are here to build and sustain trust in a digital society — trust that is threatened by uncertainty, fear and worry caused by cyber attacks and crime.
+
+Vision – Where we are heading
+No one should experience a serious loss because of a cyber attack
+We envision a future where no one should experience a serious loss or be put out of business because of cyber attack or crime. At least no one who puts their trust in us.
+
+Mission – What we do
+Accelerate transition to outcome-based security
+Our mission is to research, innovate and build technologies, human expertise and delivery-business models that will accelerate our customers’ and partners’ transition to outcome-based security.
+
+Diversity & Inclusion:
+WithSecure is an equal opportunity employer and believe that employing a diverse workforce is central to our success. We are committed to ensuring all qualified applicants will receive consideration for employment without regard to nationality, colour, race, ethnic or national origin, sex, gender (including gender reassignment), sexual orientation, religion or belief, age, marital status or physical or mental disability.
+We will do everything we can to support you during your application. If you need us to make any adjustments to our recruitment process, speak to our recruitment team who will be happy to support you!
+
+Jamie Murphy | Contact Person"
+Senior Team Manager,https://malaysia.indeed.com/rc/clk?jk=128aca62fd45839e&fccid=482adfafba1b68e6&vjs=3,job_128aca62fd45839e,WithSecure,Kuala Lumpur,"Posted
+Posted 6 days ago",,"WithSecure™ protects businesses all over the world from modern threats. We do this through a Co-security approach born from first-hand knowledge that no one can solve every cyber security problem alone. Every single day, our diverse, growing team fights against online extortion, threats to national infrastructure, the unlawful spread of sensitive information, and everything in-between. The best part about working for WithSecure is our people! We are a community of dedicated and passionate professionals that take workplace happiness seriously. If you’re looking for something that’s more than just a job – we’d love to hear from you.
+WithSecure Intelligence is our unit dedicated to researching endpoint threat detection, cloud and web security, detection and response methodologies, data-driven threat insights, and tracking and deciphering advanced persistent threats. Our team includes machine learning experts, malware analysts, reverse engineers, threat intelligence specialists, detection engineers, and data analysts. We closely collaborate with partners, industry counterparts, academic institutions, investigative journalists, and local CERTS, to ensure the unit learns from and contributes to global cyber security efforts.
+If you’re interested in working with endpoint protection and cloud platform protection products, designing machine learning mechanisms to improve the usability of our products, research and implement systems and processes to make sure our products detect malicious behavior efficiently with minimal false positives, look no further than this job.
+Key Responsibilities
+As a Senior Team Manager in WithSecure Intelligence, you will serve as the primary liaison between the Malaysian team and the HR department, while reporting directly to the Vice President of WithSecure Intelligence. Your primary responsibilities include fostering a positive work environment and proactively addressing employee needs. You will manage workforce planning, encompassing hiring, training, and performance evaluations, to ensure the unit is consistently staffed to achieve its immediate needs and long-term goals. You'll also navigate local regulations and governmental requirements, offering advice to team members and ensuring company compliance. Additionally, you will represent the company in local contexts like work fairs and university events to enhance the company's reputation as an attractive employer. Optionally, depending on your qualifications, you may also lead complex software projects in the domain of cybersecurity, coordinating with multiple stakeholders and managing high technical complexity.
+What are we looking for?
+Ideal candidates for this position will be able to fulfill some or all of the following requirements:
+Experience in people management and proven track record in hiring and performance management
+Strong communication skills, verbal and written. The ideal candidate is proficient with Malaysian and English
+Bachelor’s degree. Master’s degree is a plus
+Problem-Solving skills and the ability to navigate complex challenges and make decisions that align with the company's objectives and values
+Strong organizational and coordination skills and a strong desire to contribute and improve our ways of working
+Software engineering experience is a plus
+Familiarity with Cybersecurity concepts is a plus
+What will you get from us
+As a member of the WithSecure Intelligence, you’ll enjoy a diverse, flexible, and friendly workplace, get to learn from world-class cyber security experts, contribute to and influence the capabilities of WithSecure’s cyber security products and services, and make the digital world a better and safer place for everyone.
+WithSecure™ employees are a community of dedicated and passionate professionals who are committed to building expertise, sharing knowledge, and fostering workplace fellowship, diversity, and happiness. If you’re looking for something that’s more than just a job, we’d love to hear from you. And if you’re interested in applying, send us a cover letter and your CV.
+A security background check will be conducted for the selected candidate.
+
+GREAT PLACE TO WORK
+Over 1,200 amazing colleagues in 18 offices
+Possibility to protect the world
+Work with best of class experts who care
+Relaxed, open and fun working environment
+70+ nationalities
+Global with the spirit of a small company
+
+Purpose – Why we exist
+We are here to build and sustain trust in a digital society
+We are here to build and sustain trust in a digital society — trust that is threatened by uncertainty, fear and worry caused by cyber attacks and crime.
+Vision – Where we are heading
+No one should experience a serious loss because of a cyber attack
+We envision a future where no one should experience a serious loss or be put out of business because of cyber attack or crime. At least no one who puts their trust in us.
+Mission – What we do
+Accelerate transition to outcome-based security
+Our mission is to research, innovate and build technologies, human expertise and delivery-business models that will accelerate our customers’ and partners’ transition to outcome-based security.
+Diversity & Inclusion:
+WithSecure is an equal opportunity employer and believe that employing a diverse workforce is central to our success. We are committed to ensuring all qualified applicants will receive consideration for employment without regard to nationality, colour, race, ethnic or national origin, sex, gender (including gender reassignment), sexual orientation, religion or belief, age, marital status or physical or mental disability.
+We will do everything we can to support you during your application. If you need us to make any adjustments to our recruitment process, speak to our recruitment team who will be happy to support you!"
+Software Quality Assurance Engineer/Software Tester,https://malaysia.indeed.com/company/Vandewiele-Software-Solutions-Sdn-Bhd/jobs/Quality-Assurance-Tester-ab01ebe3d15c24d9?fccid=9a76dbd9bb98d9a7&vjs=3,job_ab01ebe3d15c24d9,Vandewiele Software Solutions Sdn Bhd,Kuala Lumpur,"Employer
+Active 8 days ago","RM 3,500 a month","Job Highlights
+Hybrid Working Style
+Parking/Transportation,Connectivity Allowances, 13th Month Salary
+Medical Insurance Coverage, Yearly Company Trip & Training
+Job Description
+Software Quality Assurance Engineer/Software Tester
+Our company backgrounds
+Vandewiele Software Solutions Malaysia, a new European-based growing entity of Vandewiele NV, Belgium, specializing in Textile Machinery. We are expanding a new IT hub (registered locally as an IT company) based in KL Eco City (KLEC) Bangsar for 2 years now, growing our team in providing software development services across the Vandewiele group.
+Our parent company, Vandewiele NV is a European-based company, founded in 1880 as a small repair company for all kinds of machines, it was transformed in 1921 by Michel Van de Wiele into a company that built looms. Since then, our company has grown into an international group with production and service centers worldwide through investments in our machinery and incorporations and acquisitions worldwide.
+We provide end-to-end solutions where we have our own division machine plus, we create software and hardware for our machines with a great solution, engineering & development team.
+We work with the latest and modern technologies like .net Core, Angular, Azure Dev Ops, IoT, cloud technologies, machine learning, AI, etc.
+Our most fantastic perks: We love the flexibility and work-life balance!
+Hence, we work on a Hybrid working style of 3 days on-site and 2-day WFH/remotely.
+13th Month Salary, Medical Insurance coverage, and yearly company trip.
+What is more? All employees have entitled to a parking and transportation allowance of up to RM200 per month and a connectivity allowance of RM50 per month.
+Also, we do not encourage our employees to be on Overtime (OT) and we do offer flex working hours where you can opt between 8 - 10 am to start your day.
+Flexibility & a Golden Opportunity to be trained professionally in Belgium and other Vandewiele counterparts worldwide if you have what it takes!
+As a Software QA Engineer/Tester needs to: Responsibilities and Accountabilities
+Participate in support of several applications.
+Participate in the design, implementation, testing and deployment of large-scale systems and services.
+Participate in an Agile / Scrum methodology to deliver software releases.
+Write scripts (test script).
+Write articles in Wiki or create documents.
+Team Player with the ability to work with development and support.
+Take full ownership of and maintain a robust QA environment, including test databases and system deployments.
+Work with developers on improving system testability and creating a testing environment.
+Be responsible for manual testing of new functionality.
+Engage in e2e testing of new functionality.
+Improve the process of continuous automatic testing.
+Participate in the elaboration of functional requirements for the system.
+Create and maintain test documentation.
+Specific Requirements for the position
+A university degree holder of Computer Science or Information Technology or the equivalent combination of training and experience.
+Minimum 2 years of work experience as a Quality Assurance.
+Ability to speak & read in bilingual languages (English & Mandarin) is a must to support and communicate with our counterparts from Belgium & China.
+Capable to write a test script.
+Experience in API testing with postman script etc.
+Able to perform manual testing.
+Good critical thinking.
+Understand the basics of the internet and the operation of web applications.
+Understand the general principles of client-server interaction.
+Proficiency in English (sufficient to read technical documentation).
+Ability to work and be flexible in a fast-paced environment.
+Job Type: Full-time
+Salary: From RM3,500.00 per month
+Benefits:
+Health insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+13th month salary
+Ability to commute/relocate:
+Kuala Lumpur: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Bachelor's (Preferred)
+Experience:
+Quality Assurance: 3 years (Required)
+.Net Framework: 3 years (Required)"
+Senior QA Engineer,https://malaysia.indeed.com/rc/clk?jk=0b1dd2893559482f&fccid=8c96734f1d4f7582&vjs=3,job_0b1dd2893559482f,Arvato Systems Malaysia Sdn. Bhd.,Kuala Lumpur,"Posted
+Posted 11 days ago",,"Responsibilities:
+Work in interesting IT projects mainly in pharmaceutical and other promising sectors with efficient testing services and architectural tasks
+Architect and design scalable and maintainable test automation frameworks that meet the project's requirements.
+Select appropriate test automation tools, libraries, and technologies.
+Implement best practices and standards for quality assurance and testing processes.
+Continuously evaluate and improve testing processes to enhance efficiency and effectiveness.
+Develop and maintain a robust regression testing strategy to ensure that software updates do not introduce new defects.
+Identify and assess project risks related to quality assurance and testing.
+Develop risk mitigation strategies and contingency plans.
+Determine the testing approach, strategy, scope, and objectives for different phases of the software development lifecycle in test automation process.
+Strong communication skills and well collaborates with stakeholders.
+Delivers testing efforts across project and tasks under tight deadlines efficiently.
+Mentors and provides training assistance to Associate QA Engineers in need
+Adhere to Agile methodologies incorporated in the team.
+Strongly integrate with cross teams and be flexible to participate in both Manual as well as Test Automation based on project requirements.
+
+Requirements:
+Must have:
+1. Extensive experience in quality assurance and software testing methodologies.
+2. Proficiency in test automation frameworks and tools (e.g., Robot Framework, Selenium, Appium, JUnit, TestNG, UFT etc.).
+3. Strong knowledge of programming languages commonly used in test automation (e.g., Java, Python, C#).
+4. In-depth understanding of software architecture and design principles.
+5. Ability to design and implement scalable and maintainable test automation solutions.
+6. Proven experience in developing comprehensive test strategies and test plans for complex software systems.
+7. Ability to identify high-impact test scenarios and prioritize testing efforts effectively.
+8. Demonstrated leadership and mentoring abilities to guide and mentor QA engineers and teams.
+9. Effective communication and collaboration skills to work closely with cross-functional teams, including developers and product managers
+10. Knowledge of industry best practices in test automation, including continuous integration and continuous delivery (CI/CD) pipelines.
+11.Experience with DevOps practices and tools.
+12. Familiarity with a range of testing tools, frameworks, and libraries for various types of testing (e.g., functional, performance, security).
+13. Experience in selecting and implementing appropriate testing tools for specific projects.
+
+Good to have:
+1. Relevant certifications such as ISTQB, Certified Selenium Tester, or AWS Certified Solutions Architect.
+2. Experience in designing and conducting performance tests using tools like JMeter, Gatling, or LoadRunner.
+3. Understanding of security testing practices and tools to ensure software security (e.g., OWASP Top Ten, security scanning tools)
+4. Familiarity with cloud computing platforms (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).
+
+Life at Arvato Systems Malaysia:
+If you're looking to be creative and at the same time putting on the entrepreneurship hat while working on Technology related work, then you fit right into our culture.
+
+Top 10 Perks & Benefits on Why You Should Join Us:
+Yearly Company Trip.
+We promote flexi work arrangements having flexi benefits where employees could enjoy what they see fit.
+Besides Annual Leaves & Sick Leaves, we have other unique paid time-offs such as Birthday Leave & Child Care/Parental Leave.
+We got you covered in terms of insurance alongside with your immediate family members (Spouse & Children only).
+Attractive Employee Referral Program.
+Sponsored meals if you work at the office!
+Unlimited coffee refills with state-of-the-art barista coffee machine where you can practice on your preferred choice of latte art.
+Believes in learning and people development with plenty of trainings to upskill your personal growth.
+Plenty of initiatives and interest groups to ensure that not only everyone in the team gels and bond closer together, we put an emphasis on CSR work as well.
+Work is important, but your mental health should always take priority. At Arvato Systems Malaysia, we do everything we can to make sure you lead a healthy and happy life by walking the talk on work-life balance.
+
+Diversity & Inclusion:
+Arvato Systems Malaysia stands for Equal Employment Opportunity (EEO). We do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.
+
+Global IT specialist Arvato Systems supports major companies through Digital Transformation. About 3,100 staff in over 25 locations epitomize in-depth technology expertise, industry knowledge, and focus on customer requirements. Working as a team, we develop innovative IT solutions, transition our clients into the Cloud, integrate digital processes, and take on IT systems operation and support.
+We provide
+Comprehensive IT solutions for retail, manufacturing, and media industries as well as for utility companies and the public as well as the healthcare sector · Long-term experience in Digital Transformation
+Competence in key areas like Artificial Intelligence, Cloud Computing, IT-Security, Customer Experience, E-Commerce, and Business Process Management
+Know-how in robust technologies and a strong partner ecosystem including companies like Amazon Web Services, Google, Microsoft, and SAP
+A broad spectrum of infrastructure Services, including Managed Services, and an according Application Management
+As a part of the Bertelsmann-owned Arvato network, we have the unique capability to work across the entire value chain. Through our strong strategic partner network with global top players such as AWS, Google, Microsoft, and SAP, we continuously strengthen our know-how and leverage the most advanced technology. We Empower Digital Leaders.
+Interested? Then send us your application! We welcome applications from people who contribute to the diversity of our company. Please feel free to send us your detailed application including certificates and your salary expectations.
+Arvato Systems Malaysia Sdn Bhd
+IT.arvato.com/malaysia
+Company: Arvato Systems Malaysia Sdn. Bhd.
+Country: Malaysia
+State/Region: Wilayah Persekutuan Kuala Lumpur
+City: Kuala Lumpur
+Postal Code: 50400
+Job ID: 264708"
+Machine Learning Engineer (Team Lead - Martech),https://malaysia.indeed.com/rc/clk?jk=92acabdf48b33a87&fccid=f8b265243da9f9d7&vjs=3,job_92acabdf48b33a87,Randstad,Kuala Lumpur,"Posted
+Posted 8 days ago","RM 12,000 - RM 14,000 a month","about the company
+marketing-tech company with presence in Malaysia, Indonesia and Thailand as of 2023, providing data analytics and intelligence services that focuses on media and e-commerce.
+
+about the job
+Driving machine learning and analytics innovation strategies
+Responsible for leading end to end machine learning and analytics products development
+Overseeing machine learning model lifecycle management
+Collecting and preparing data for analytical work and machine learning modelling to be productionized
+Ensuring continuous integration through MLOPs or ML pipelines automation
+Work closely with prodcut team, data engineering team and software development team for deployment of analytics and ML solutions into production
+Responsible to advice stakeholders and business leaders on technology and strategy pertaining to analytics and machine learning
+Responsible to manage functional and process design, testing and protyping along with product and engineering team (including leadership team)
+skills & requirements
+minimum 5 years of experience in machine learning developments and analytics in production environment
+Hands on experience with cloud technology (AWS would be added advantage)
+Strong knowledge and expertise in ML libraries and framework (tensorflow, pytorch)
+Experience with statistical analysis, experimental designs, etc
+Experience with dashboarding, visualization and data storytelling
+Basic understanding of datalake and data warehousing concepts"
+Data Engineer,https://malaysia.indeed.com/rc/clk?jk=beebf688db1443d4&fccid=f8b265243da9f9d7&vjs=3,job_beebf688db1443d4,Randstad,Kuala Lumpur,"Posted
+Posted 13 days ago","RM 8,000 - RM 10,000 a month","about the company
+premier Google Cloud partner, focusing on cloud innovation such as cloud migration, machine learning and big data analytics
+
+about the job
+conducting full lifecycle analysis
+designing and developing analysis and reporting
+analyze large data sets to identify data patterns and trends
+conduct data mining and data extraction from various data sources
+enhance data collection process to develop automated data systems
+perform data cleansing and data validation
+developing predictive modelling and machine learning algorithms
+understanding requirements to propose data solutioning and strategies
+cross functional collaboration for solution implementation
+about the manager/team
+bachelor degree in computer science/information technology
+minimum 2 years of working experience in data engineering function
+strong hands on experience in data collection, statistical analysis and programming languages
+Basic work exprience in cloud technology would be an added advantage
+experience in data visualization tools"
+Javascript Developer (Penang),https://malaysia.indeed.com/rc/clk?jk=5bf6a185a80c4472&fccid=f8b265243da9f9d7&vjs=3,job_5bf6a185a80c4472,Randstad,Kuala Lumpur,"Posted
+Posted 9 days ago","RM 4,000 - RM 10,000 a month","Randstad has recently partnered with a Penang-based software agency specializing in the design and development of tech products with a team of skilled software engineers and designers. Their services extend to consultancy for both established companies and promising startups. They engage in a diverse range of projects, often involving groundbreaking and enjoyable work, including their internal project, a machine-learning-powered system.
+
+The work environment blends the characteristics of a tech startup and a software agency, offering abundant learning opportunities, exciting challenges, and a fun atmosphere.
+
+Openings available for Software Engineers at different levels: Senior, Mid-level & Junior roles.
+
+Job Overview:
+Software Engineers play a central role in the company, held in high regard, they are given space to voice out & share their ideas. They tackle complex problems, conceive innovative solutions, and prioritize delivering high-quality products as a team. Importantly, the team has background as Software Engineers, and they share a deep passion for cutting-edge technology.
+
+Basic Qualifications:
+While a degree in Computer Science or a related field is preferred, candidates from diverse educational backgrounds are welcomed, as long as you have a strong coding aptitude.
+Qualities such as proactivity, quick learning, a hunger for challenges, self-motivation, and good English communication skills are valued.
+A commitment to continuous learning and sharing knowledge is crucial to the culture.
+Technical Requirements:
+Your specific responsibilities will be tailored to your skills and interests.
+Expertise in JavaScript/TypeScript (with modern frameworks like ReactJS, React Native, NodeJS, etc.)
+Solid grasp of architectural patterns (MVC/MVP/MVVM)
+Familiarity with RESTful API and microservices, a deep understanding of the Document Object Model (DOM), and proficiency with databases such as MongoDB, SQL, and PostgreSQL.
+We also value proficiency with Git
+Experience in DevOps, Web3, Docker, and cloud platforms like AWS, Google Cloud, and Firebase is a plus.
+If you have any specific inquiries or require additional information regarding this job opportunity, please don't hesitate to ask!
+Tong Yu | Randstad | +6012 288 8412 | tongyu.chai@randstad.com.my"
+Senior QA Engineer/QA Architect,https://malaysia.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B32quDr5OdJJ9JthlCsHy5zjIUn4kVkLmV40XIiLuqfboflXCuQwTLrUAwexb7Vui3NQLN5koUD5PXOUfLLfeYwzOL6ZORX9tre1cjma37qkQQAEVDfbEajyQt1d4Y6CIcvMXTjcqo92tpKjhI4J7X612Tip5bc2q8y_r27PqwyajCsDvo9-TIoGFgdllDDr0iX2Am026Nz8WeoM8Mlr83t-nf3n1tQGwb5tfpPltW4rn65u3VJHju_G_YNKbrk8FBPkVffTD8dpZZZsfrjKWsmKuLWZA2m81gwluuXNNyMgcOc6yB2Wfc6BZExgTtVekB8rWaEcAUzST96BwW_MiUtMZpZExuPIi4hqY1P98Lh8XoaYnF5rKaNUW45klLLrYR2Rizw4SNWSwC9KVWlwFmY9XJQUOY0h9Zh1QKhKRhn6WrezaBv54pSkF8ioX3pcMlmB3fjYt6K06tjQGLHi3KNB7WLC4jw4HB1oIGKQ7oG-2qJkJesDLupwKX8SRaKPgtplu9o_hdSOP0Kb0WgtSlZZCshQhvm3Z6C7UOS0ds4DYL-buG4Z5foC-FA2Dut-8lL95ln2dLQRORrggdy7PvejcKZAEIh-6vyDyDQNtwC4JJ8Ho-ygqtVAreBRndRKGBgltGzXcTpDWcTO9BC4IaVh2Hh2Ed8qdrEq6P2ZP5TykePo-c1sfKV4VJi3zwppcCeO-jvui6TlHgL-3a30UYGnL_vh8sjiecUR5lu48Y3cidrYqm3MIEMuhTvDOc31TfqSJi5JCxuvx5jztLITdw2Vd7yo4O3zV4CPZkpKyBys0O6K0oRlLgOffABL9jx_D8I9fgvpdV4ktDJWwGCLPnNr0TdbMUTU9tL1UShDfLznS5KC8TIXv3aHNUG8Bjerb09ov2qzjgKYRMOBvRu1XGQ4WSw1Q-JeMf6_tqfUZ7-HgH0gHFBqM2X1qo_aiYsEfAN4gwmX48QDuOpZ7mIKn1ep79SNr15X87AL24mVtXe67oZe4c1XDsxLZqfsS8LwS-fOkc1WQq-DBIoQY21GdCYTwKxhJMpcACYVkqnBVpeihVGfHhAyWp&xkcb=SoBR-_M3Jhm1JLQJbx0AbzkdCdPP&p=11&fvj=0&vjs=3,sj_661570eb405dff71,Arvato Systems Malaysia Sdn. Bhd.,Kuala Lumpur,"Posted
+Posted 7 days ago",,"Responsibilities:
+Work in interesting IT projects mainly in pharmaceutical and other promising sectors with efficient testing services and architectural tasks
+Architect and design scalable and maintainable test automation frameworks that meet the project's requirements.
+Select appropriate test automation tools, libraries, and technologies.
+Implement best practices and standards for quality assurance and testing processes.
+Continuously evaluate and improve testing processes to enhance efficiency and effec-tiveness.
+Develop and maintain a robust regression testing strategy to ensure that software up-dates do not introduce new defects.
+Identify and assess project risks related to quality assurance and testing.
+Develop risk mitigation strategies and contingency plans.
+Determine the testing approach, strategy, scope, and objectives for different phases of the software development lifecycle in test automation process.
+Strong communication skills and well collaborates with stakeholders.
+Delivers testing efforts across project and tasks under tight deadlines efficiently.
+Mentors and provides training assistance to Associate QA Engineers in need
+Adhere to Agile methodologies incorporated in the team.
+Strongly integrate with cross teams and be flexible to participate in both Manual as well as Test Automation based on project requirements.
+Requirements:
+Must have:
+
+1. Extensive experience in quality assurance and software testing methodologies.
+2. Proficiency in test automation frameworks and tools (e.g., Robot Framework, Selenium, Appium, JUnit, TestNG, UFT etc.).
+3. Strong knowledge of programming languages commonly used in test automation (e.g., Java, Py-thon, C#).
+4. In-depth understanding of software architecture and design principles.
+5. Ability to design and implement scalable and maintainable test automation solutions.
+6. Proven experience in developing comprehensive test strategies and test plans for complex soft-ware systems.
+7. Ability to identify high-impact test scenarios and prioritize testing efforts effectively.
+8. Demonstrated leadership and mentoring abilities to guide and mentor QA engineers and teams.
+9. Effective communication and collaboration skills to work closely with cross-functional teams, in-cluding developers and product managers
+10. Knowledge of industry best practices in test automation, including continuous integration and continuous delivery (CI/CD) pipelines.
+11.Experience with DevOps practices and tools.
+12. Familiarity with a range of testing tools, frameworks, and libraries for various types of testing (e.g., functional, performance, security).
+13. Experience in selecting and implementing appropriate testing tools for specific projects.
+
+Good to have:
+1. Relevant certifications such as ISTQB, Certified Selenium Tester, or AWS Certified Solutions Architect.
+2. Experience in designing and conducting performance tests using tools like JMeter, Gatling, or LoadRunner.
+3. Understanding of security testing practices and tools to ensure software security (e.g., OWASP Top Ten, security scanning tools)
+4. Familiarity with cloud computing platforms (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).
+
+
+Life at Arvato Systems Malaysia:
+
+If you're looking to be creative and at the same time putting on the entrepreneurship hat while working on Technology related work, then you fit right into our culture.
+
+Top 10 Perks & Benefits on Why You Should Join Us:
+
+
+Yearly Company Trip.
+We promote flexi work arrangements having flexi benefits where employees could enjoy what they see fit.
+Besides Annual Leaves & Sick Leaves, we have other unique paid time-offs such as Birthday Leave & Child Care/Parental Leave.
+We got you covered in terms of insurance alongside with your immediate family members (Spouse & Children only).
+Attractive Employee Referral Program.
+Sponsored meals if you work at the office!
+Unlimited coffee refills with state-of-the-art barista coffee machine where you can practice on your preferred choice of latte art.
+Believes in learning and people development with plenty of trainings to upskill your personal growth.
+Plenty of initiatives and interest groups to ensure that not only everyone in the team gels and bond closer together, we put an emphasis on CSR work as well.
+Work is important, but your mental health should always take priority. At Arvato Systems Malaysia, we do everything we can to make sure you lead a healthy and happy life by walking the talk on work-life balance.
+
+Diversity & Inclusion:
+
+Arvato Systems Malaysia stands for Equal Employment Opportunity (EEO). We do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need."
